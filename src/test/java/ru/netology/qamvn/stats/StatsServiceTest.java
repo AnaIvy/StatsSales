@@ -1,6 +1,8 @@
+package ru.netology.qamvn.stats;
+import ru.netology.qamvn.stats.StatsService;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.netology.stats.StatsService;
 
 class StatsServiceTest {
     @Test

@@ -1,4 +1,4 @@
-package ru.netology.stats;
+package ru.netology.qamvn.stats;
 
 public class StatsService {
     public long sum(long[] sales) {
